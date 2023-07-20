@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+html{
+  background-color: #E9C46A;
+}
+
+.sidebar{
+  background-color: #F4A261;
+}
+.textcolor{
+  color: #264653;
+}
+
+.head{
+  color: #264653;
+}
+
+.delete{
+  background-color: #E76F51;
+}
+.comp{
+  background-color: #2A9D8F;
+}
+.tackback{
+  background-color: #F4A261;
+}
+
+.addback{
+  background-color: #264653;
+}
+.myshadow{
+  box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;}
